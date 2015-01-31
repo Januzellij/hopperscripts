@@ -4,7 +4,7 @@ Collection of scripts I've written for the excellent <a href="http://www.hoppera
 
 * Parse Swift Symbol.py
 
-Extremely useful for reversing Swift binaries. Just click on a mangled Swift symbol and run. The demangled symbol will be logged in the document window.
+Extremely useful for reversing Swift binaries. Requires Xcode to be installed. Just click on a mangled Swift symbol and run. The demangled symbol will be logged in the document window.
 
 Ex. Click on the symbol 
 
