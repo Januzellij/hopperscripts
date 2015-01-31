@@ -1,10 +1,10 @@
 hopperscripts
 -
-Collection of scripts I've written for the excellent <a href="http://www.hopperapp.com">Hopper disassembler</a>.
+Collection of scripts I've written for the excellent <a href="http://www.hopperapp.com">Hopper disassembler</a>. Scripts go in /Users/\<user>/Library/Application Support/Hopper/Scripts/.
 
-* Parse Swift Symbol.py
+* Parse Swift Symbol.py (Requires Xcode)
 
-Extremely useful for reversing Swift binaries. Requires Xcode to be installed. Just click on a mangled Swift symbol and run. The demangled symbol will be logged in the document window.
+Just click on a mangled Swift symbol, run the script, and the demangled symbol will be logged in the document window. Super useful for reversing Swift binaries.
 
 Ex. Click on the symbol 
 
