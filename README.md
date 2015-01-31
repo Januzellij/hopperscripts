@@ -8,10 +8,12 @@ Extremely useful for reversing Swift binaries. Just click on a mangled Swift sym
 
 Ex. Click on the symbol 
 
-```__TFC6Annota18NoteViewController23textViewDidBeginEditingfS0_FCSo10UITextViewT_```
-
+```
+__TFC6Annota18NoteViewController23textViewDidBeginEditingfS0_FCSo10UITextViewT_
+```
 and run.
 
-```Annota.NoteViewController.textViewDidBeginEditing (Annota.NoteViewController)(ObjectiveC.UITextView) -> ()```
-
+```
+Annota.NoteViewController.textViewDidBeginEditing (Annota.NoteViewController)(ObjectiveC.UITextView) -> ()
+```
 is logged in the document window.
