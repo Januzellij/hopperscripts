@@ -17,3 +17,10 @@ and run.
 Annota.NoteViewController.textViewDidBeginEditing (Annota.NoteViewController)(ObjectiveC.UITextView) -> ()
 ```
 is logged in the document window.
+
+Prefixed symbols such as
+
+```
+imp___stubs___TFSsa6C_ARGVGVSs20UnsafeMutablePointerGS_VSs4Int8__
+```
+work just fine too.
