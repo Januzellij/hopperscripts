@@ -18,7 +18,7 @@ Annota.NoteViewController.textViewDidBeginEditing (Annota.NoteViewController)(Ob
 ```
 is logged in the document window.
 
-Prefixed symbols such as
+Stdlib symbols such as
 
 ```
 imp___stubs___TFSsa6C_ARGVGVSs20UnsafeMutablePointerGS_VSs4Int8__
