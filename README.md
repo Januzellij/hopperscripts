@@ -24,3 +24,5 @@ Stdlib symbols such as
 imp___stubs___TFSsa6C_ARGVGVSs20UnsafeMutablePointerGS_VSs4Int8__
 ```
 work just fine too.
+
+NOTE: this has been built into Hopper v4. The code will remain for users of Hopper v3.
